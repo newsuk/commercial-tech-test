@@ -1,0 +1,14 @@
+# Remove .DS_Store
+.DS_Store
+
+# Ignore generated folders
+dist
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Ignore .vscode settings
+.vscode/
