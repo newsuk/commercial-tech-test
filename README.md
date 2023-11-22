@@ -31,7 +31,7 @@ This is a basic install which will setup an environment that will output to the 
 
 Just in case you have issues with using screen sharing on Google meet
 
-1. Follow these instructions to [give your mac permision to share](# macOS Guide: Screen Sharing With Google Meet)
+1. Follow these instructions to [give your mac permision to share](https://www.techrepublic.com/article/how-to-enable-screen-sharing-for-google-meet-in-chrome-on-a-mac/)
 
 2. Restart your browser, and re-join the meeting
 
