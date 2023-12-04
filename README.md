@@ -1,6 +1,7 @@
 ![](./src/invader.svg)
 
 # Interview schedule
+
 * Introduction.
 * 30 minutes to complete the challenge.
 * Review the challenge and other potential solutions.
@@ -25,6 +26,14 @@ This is a basic install which will setup an environment that will output to the 
 2. Run `npm i`
 3. Run `npm start` - this will setup a watch task on `src/*.js`
 4. When you're ready to tackle tests Jest is ready to run. Kill the watch task and run `npm run test:watch`
+
+### Google Meet
+
+Just in case you have issues with using screen sharing on Google meet
+
+1. Follow these instructions to [give your mac permision to share](https://www.techrepublic.com/article/how-to-enable-screen-sharing-for-google-meet-in-chrome-on-a-mac/)
+
+2. Restart your browser, and re-join the meeting
 
 # Challenge:
 
