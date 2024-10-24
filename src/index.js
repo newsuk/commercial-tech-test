@@ -1,10 +1,6 @@
-// Placeholder function so you can see output in the terminal
-function foo() {
-  console.log('foo is running ...');
-  return true;
+function message() {
+  console.log('hello world');
 }
 
-foo();
-
-module.exports = foo;
+module.exports = message;
 

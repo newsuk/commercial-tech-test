@@ -22,10 +22,10 @@
 
 This is a basic install which will setup an environment that will output to the terminal. Jest is ready to use as per below when you're ready to start writing your unit tests.
 
-1. Make sure you're using node v18.16.1 or greater. If you have `nvm` setup then feel free to run `nvm use`.
+1. Make sure you're using node v20.18.0 or greater. If you have `nvm` setup then feel free to run `nvm use`.
 2. Run `npm i`
 3. Run `npm start` - this will setup a watch task on `src/*.js`
-4. When you're ready to tackle tests Jest is ready to run. Kill the watch task and run `npm run test:watch`
+4. When you're ready to tackle tests Jest is ready to run. You can run tests using `npm run test` this will also setup a watch task for the tests.
 
 ### Google Meet
 
